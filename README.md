@@ -1,5 +1,9 @@
 # RP2040_HID
 RaspiPicoをHIDデバイス化するファームウェアとサンプルコードです。
+CircuitpythonのHIDと違い、threadが使えます。
+dual coreを使って、LCD表示するjoystickや、非同期処理をしながら
+HIDデバイスとして機能できます。
+
 
 Mycropythonベースのファームウェア 
 firmware.uf2
