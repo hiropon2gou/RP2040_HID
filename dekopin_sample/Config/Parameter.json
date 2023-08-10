@@ -1,0 +1,10 @@
+{
+ "loadcell": {
+"base_gram": -64.34135,
+ "proof_waight_bits": 630188.8,
+ "proof_waight_gram": 1000,
+ "zero_gram": 577.1143,
+ "zero_bits": 230605.3,
+ "gram_par_bits": 0.002502606
+}
+}

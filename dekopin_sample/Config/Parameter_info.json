@@ -1,0 +1,9 @@
+{
+    "loadcell":{
+        "zero_bits": "ロードセルのADコンバータbitデータ 例：102984",
+        "zero_gram": "測りに何も無い時の重さ[g] 例：112",
+        "gram_par_bits": "1gグラムあたりのbitデータ　例：934841",
+        "proof_waight_gram":"校正した時の分銅の重さ[g]　例：1000",
+        "proof_waight_bits":"校正した時の分銅の重さbitデータ　例：1948503"
+    }
+}
